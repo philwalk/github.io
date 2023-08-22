@@ -1,4 +1,4 @@
-Vastplat
+Platform Independent Tooling
 =======
 
 [vastblue.org site](https://www.vastblue.org)
