@@ -1,7 +1,7 @@
 Platform Independent Tooling
 =======
 
-[github project](https://github.com/philwalk/vastblue)
+[github project](https://github.com/philwalk/vastblue/tree/main)
 
 <img alt="sky image" src="images/pexels-guillaume-meurice-2873671.png">
 
