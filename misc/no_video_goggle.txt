@@ -1,0 +1,44 @@
+! name: No Video
+! description: Rerank results to discard various mostly-Video websites
+! public: true
+! author: Pluie 99
+! avatar: #ed3024
+
+$discard,site=youtube.at
+$discard,site=youtube.ca
+$discard,site=youtube.ch
+$discard,site=youtube.cl
+$discard,site=youtube.co.kr
+$discard,site=youtube.co.uk
+$discard,site=youtube.com
+$discard,site=youtube.com.au
+$discard,site=youtube.com.mx
+$discard,site=youtube.de
+$discard,site=youtube.dk
+$discard,site=youtube.es
+$discard,site=youtube.fr
+$discard,site=youtube.ie
+$discard,site=youtube.it
+$discard,site=youtube.nz
+$discard,site=youtube.ph
+$discard,site=youtube.pt
+$discard,site=youtube.ru
+$discard,site=facebook.at
+$discard,site=facebook.ca
+$discard,site=facebook.ch
+$discard,site=facebook.cl
+$discard,site=facebook.co.kr
+$discard,site=facebook.co.uk
+$discard,site=facebook.com
+$discard,site=facebook.com.au
+$discard,site=facebook.com.mx
+$discard,site=facebook.de
+$discard,site=facebook.dk
+$discard,site=facebook.es
+$discard,site=facebook.fr
+$discard,site=facebook.ie
+$discard,site=facebook.it
+$discard,site=facebook.nz
+$discard,site=facebook.ph
+$discard,site=facebook.pt
+$discard,site=facebook.ru
